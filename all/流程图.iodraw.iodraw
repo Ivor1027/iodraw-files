@@ -88,8 +88,8 @@
             <mxPoint x="1110" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nodGDjeGbRmrMGb94kGz-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="900" width="60" height="30" as="geometry" />
+        <mxCell id="nodGDjeGbRmrMGb94kGz-28" value="订单、成交、持仓事实" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="940" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
