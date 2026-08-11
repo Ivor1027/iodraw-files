@@ -82,11 +82,14 @@
         <mxCell id="nodGDjeGbRmrMGb94kGz-26" value="风控、策略判断后的交易指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1300" y="920" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nodGDjeGbRmrMGb94kGz-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="nodGDjeGbRmrMGb94kGz-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.789;exitY=0.105;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.685;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nodGDjeGbRmrMGb94kGz-17" target="nodGDjeGbRmrMGb94kGz-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1060" y="940" as="sourcePoint" />
             <mxPoint x="1110" y="890" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nodGDjeGbRmrMGb94kGz-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="900" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
