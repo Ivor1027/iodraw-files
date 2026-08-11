@@ -80,7 +80,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nodGDjeGbRmrMGb94kGz-26" value="风控、策略判断后的交易指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="920" width="170" height="50" as="geometry" />
+          <mxGeometry x="1300" y="920" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nodGDjeGbRmrMGb94kGz-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="940" as="sourcePoint" />
+            <mxPoint x="1110" y="890" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
