@@ -16,7 +16,7 @@
         <mxCell id="nodGDjeGbRmrMGb94kGz-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;AKquant（HXquant）&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="780" width="210" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="nodGDjeGbRmrMGb94kGz-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nodGDjeGbRmrMGb94kGz-3" target="nodGDjeGbRmrMGb94kGz-4">
+        <mxCell id="nodGDjeGbRmrMGb94kGz-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nodGDjeGbRmrMGb94kGz-14" target="nodGDjeGbRmrMGb94kGz-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1030" y="1000" as="sourcePoint" />
             <mxPoint x="1080" y="950" as="targetPoint" />
@@ -36,6 +36,15 @@
         </mxCell>
         <mxCell id="nodGDjeGbRmrMGb94kGz-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;外部信号解决“谁决定买卖什么、何时买卖”；QMT 解决“把订单真正发到券商”。&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="520" width="600" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nodGDjeGbRmrMGb94kGz-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nodGDjeGbRmrMGb94kGz-3" target="nodGDjeGbRmrMGb94kGz-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="850" as="sourcePoint" />
+            <mxPoint x="1390" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nodGDjeGbRmrMGb94kGz-14" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="810" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
