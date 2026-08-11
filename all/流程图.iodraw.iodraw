@@ -70,8 +70,8 @@
             <mxPoint x="1110" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nodGDjeGbRmrMGb94kGz-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="797" width="60" height="30" as="geometry" />
+        <mxCell id="nodGDjeGbRmrMGb94kGz-21" value="交易意图、外部信号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="797" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
