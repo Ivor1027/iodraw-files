@@ -34,8 +34,8 @@
         <mxCell id="nodGDjeGbRmrMGb94kGz-12" value="&lt;code&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;外部信号买入 000001.SZ 100 股，限价 10.5&lt;/font&gt;&lt;/code&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="580" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nodGDjeGbRmrMGb94kGz-13" value="外部信号解决“谁决定买卖什么、何时买卖”；QMT 解决“把订单真正发到券商”。" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="680" width="450" height="40" as="geometry" />
+        <mxCell id="nodGDjeGbRmrMGb94kGz-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;外部信号解决“谁决定买卖什么、何时买卖”；QMT 解决“把订单真正发到券商”。&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="630" width="550" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
