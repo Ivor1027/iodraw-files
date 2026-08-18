@@ -91,7 +91,7 @@
         <mxCell id="WiwpB5nT1sVz-QeM-Jue-23" value="订单、成交、持仓事实" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1550" y="940" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ELIa7FUmxYEslsoiW9p7-1" value="exe" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ELIa7FUmxYEslsoiW9p7-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;exe&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1480" y="870" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
